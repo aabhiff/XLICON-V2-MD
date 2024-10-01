@@ -51,10 +51,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'ABDULAH'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.author = '@ABDULLAH' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
